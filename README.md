@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-04-27 — [Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets](daily/2026-04-27-single-agent-vs-multi-agent-reasoning.md)
 - 2026-04-26 — [TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate](daily/2026-04-26-turboquant-kv-cache.md)
 - 2026-04-25 — [Transformers are Inherently Succinct](daily/2026-04-25-transformers-inherently-succinct.md)
 - 2026-04-24 — [LLMs Get Lost In Multi-Turn Conversation](daily/2026-04-24-llms-lost-multi-turn.md)
