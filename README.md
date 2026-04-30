@@ -5,6 +5,10 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 ## Papers
 
 - 2026-04-30 — [ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence](daily/2026-04-30-arc-agi-3.md)
+- 2026-04-29 — [Accelerating Speculative Decoding with Block Diffusion Draft Trees](daily/2026-04-29-ddtree-speculative-decoding.md)
+- 2026-04-28 — [ParaRNN: Unlocking Parallel Training of Nonlinear RNNs for Large Language Models](daily/2026-04-28-pararnn-parallel-rnn-training.md)
+- 2026-04-27 — [Single-Agent LLMs Outperform Multi-Agent Systems on Multi-Hop Reasoning Under Equal Thinking Token Budgets](daily/2026-04-27-single-agent-vs-multi-agent-reasoning.md)
+- 2026-04-26 — [TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate](daily/2026-04-26-turboquant-kv-cache.md)
 - 2026-04-25 — [Transformers are Inherently Succinct](daily/2026-04-25-transformers-inherently-succinct.md)
 - 2026-04-24 — [LLMs Get Lost In Multi-Turn Conversation](daily/2026-04-24-llms-lost-multi-turn.md)
 - 2026-04-23 — [Test-Time Scaling Makes Overtraining Compute-Optimal](daily/2026-04-23-train-to-test-scaling.md)
