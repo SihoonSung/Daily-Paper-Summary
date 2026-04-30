@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-04-30 — [ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence](daily/2026-04-30-arc-agi-3.md)
 - 2026-04-25 — [Transformers are Inherently Succinct](daily/2026-04-25-transformers-inherently-succinct.md)
 - 2026-04-24 — [LLMs Get Lost In Multi-Turn Conversation](daily/2026-04-24-llms-lost-multi-turn.md)
 - 2026-04-23 — [Test-Time Scaling Makes Overtraining Compute-Optimal](daily/2026-04-23-train-to-test-scaling.md)
