@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-04 — [The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm](daily/2026-05-04-polar-express-muon-optimizer.md)
 - 2026-05-01 — [Scaling Self-Play with Self-Guidance](daily/2026-05-01-sgs-self-play-theorem-proving.md)
 - 2026-04-30 — [ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence](daily/2026-04-30-arc-agi-3.md)
 - 2026-04-29 — [Accelerating Speculative Decoding with Block Diffusion Draft Trees](daily/2026-04-29-ddtree-speculative-decoding.md)
