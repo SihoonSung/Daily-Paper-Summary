@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-03 — [Comparative characterization of Cas12f orthologs reveals mechanistic features underlying enhanced genome editing efficiency](daily/2026-05-03-cas12f-compact-crispr.md)
 - 2026-05-02 — [Fault-Tolerant Quantum Computing with Trapped Ions: The Walking Cat Architecture](daily/2026-05-02-walking-cat-fault-tolerant-quantum.md)
 - 2026-05-01 — [Scaling Self-Play with Self-Guidance](daily/2026-05-01-sgs-self-play-theorem-proving.md)
 - 2026-04-30 — [ARC-AGI-3: A New Challenge for Frontier Agentic Intelligence](daily/2026-04-30-arc-agi-3.md)
