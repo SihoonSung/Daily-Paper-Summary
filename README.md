@@ -5,6 +5,8 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 ## Papers
 
 - 2026-05-07 — [Knowing when to trust machine-learned interatomic potentials](daily/2026-05-07-probe-mlip-trust.md)
+- 2026-05-06 — [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](daily/2026-05-06-rl-token-vla-robotics.md)
+- 2026-05-05 — [Thinking in Text and Images: Interleaved Vision-Language Reasoning Traces for Long-Horizon Robot Manipulation](daily/2026-05-05-ivlr-interleaved-vl-robot.md)
 - 2026-05-04 — [The Polar Express: Optimal Matrix Sign Methods and Their Application to the Muon Algorithm](daily/2026-05-04-polar-express-muon-optimizer.md)
 - 2026-05-03 — [Comparative characterization of Cas12f orthologs reveals mechanistic features underlying enhanced genome editing efficiency](daily/2026-05-03-cas12f-compact-crispr.md)
 - 2026-05-02 — [Fault-Tolerant Quantum Computing with Trapped Ions: The Walking Cat Architecture](daily/2026-05-02-walking-cat-fault-tolerant-quantum.md)
