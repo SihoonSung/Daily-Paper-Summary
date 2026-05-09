@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-09 — [Performance of a large language model on the reasoning tasks of a physician](daily/2026-05-09-llm-physician-reasoning.md)
 - 2026-05-07 — [Knowing when to trust machine-learned interatomic potentials](daily/2026-05-07-probe-mlip-trust.md)
 - 2026-05-06 — [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](daily/2026-05-06-rl-token-vla-robotics.md)
 - 2026-05-05 — [Thinking in Text and Images: Interleaved Vision-Language Reasoning Traces for Long-Horizon Robot Manipulation](daily/2026-05-05-ivlr-interleaved-vl-robot.md)
