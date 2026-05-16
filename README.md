@@ -4,6 +4,14 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-15 — [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](daily/2026-05-15-ai-co-mathematician.md)
+- 2026-05-14 — [Litespark Inference on Consumer CPUs: Custom SIMD Kernels for Ternary Neural Networks](daily/2026-05-14-litespark-ternary-cpu-inference.md)
+- 2026-05-13 — [Fast Byte Latent Transformer](daily/2026-05-13-fast-blt-byte-latent-transformer.md)
+- 2026-05-12 — [Metamaterials that learn to change shape](daily/2026-05-12-metamaterials-physical-learning.md)
+- 2026-05-11 — [EdgeRazor: A Lightweight Framework for Large Language Models via Mixed-Precision Quantization-Aware Distillation](daily/2026-05-11-edgerazor-extreme-llm-quantization.md)
+- 2026-05-10 — [Federation of Experts: Communication Efficient Distributed Inference for Large Language Models](daily/2026-05-10-federation-of-experts-moe.md)
+- 2026-05-09 — [Performance of a large language model on the reasoning tasks of a physician](daily/2026-05-09-llm-physician-reasoning.md)
+- 2026-05-08 — [Decoupled DiLoCo for Resilient Distributed Pre-training](daily/2026-05-08-decoupled-diloco-distributed-pretraining.md)
 - 2026-05-07 — [Knowing when to trust machine-learned interatomic potentials](daily/2026-05-07-probe-mlip-trust.md)
 - 2026-05-06 — [RL Token: Bootstrapping Online RL with Vision-Language-Action Models](daily/2026-05-06-rl-token-vla-robotics.md)
 - 2026-05-05 — [Thinking in Text and Images: Interleaved Vision-Language Reasoning Traces for Long-Horizon Robot Manipulation](daily/2026-05-05-ivlr-interleaved-vl-robot.md)
