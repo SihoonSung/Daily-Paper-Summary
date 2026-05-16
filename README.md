@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-16 — [Solve the Loop: Attractor Models for Language and Reasoning](daily/2026-05-16-attractor-models-looped-lm.md)
 - 2026-05-15 — [AI Co-Mathematician: Accelerating Mathematicians with Agentic AI](daily/2026-05-15-ai-co-mathematician.md)
 - 2026-05-14 — [Litespark Inference on Consumer CPUs: Custom SIMD Kernels for Ternary Neural Networks](daily/2026-05-14-litespark-ternary-cpu-inference.md)
 - 2026-05-13 — [Fast Byte Latent Transformer](daily/2026-05-13-fast-blt-byte-latent-transformer.md)
