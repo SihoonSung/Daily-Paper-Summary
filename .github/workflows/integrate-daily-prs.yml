@@ -1,0 +1,30 @@
+name: Integrate daily paper PRs
+
+on:
+  schedule:
+    - cron: "0 10 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: integrate-daily-prs
+  cancel-in-progress: false
+
+jobs:
+  integrate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 0
+
+      - name: Integrate matching PRs
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TARGET_BRANCH: main
+        run: python3 scripts/integrate_daily_prs.py
