@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-19 — [Practical Scaling Laws: Converting Compute into Performance in a Data-Constrained World](daily/2026-05-19-practical-scaling-laws-data-constrained.md)
 - 2026-05-18 — [ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery](daily/2026-05-18-toolmol-evolutionary-drug-discovery.md)
 - 2026-05-17 — [Long Context Pre-Training with Lighthouse Attention](daily/2026-05-17-lighthouse-attention-long-context-pretraining.md)
 - 2026-05-16 — [Solve the Loop: Attractor Models for Language and Reasoning](daily/2026-05-16-attractor-models-looped-lm.md)
