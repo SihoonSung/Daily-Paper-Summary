@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-22 — [STELLAR: Scaling 3D Perception Large Models for Autonomous Driving](daily/2026-05-22-stellar-3d-perception-scaling.md)
 - 2026-05-20 — [ALAM: Algebraically Consistent Latent Action Model for Vision-Language-Action Models](daily/2026-05-20-alam-algebraic-latent-action-vla.md)
 - 2026-05-19 — [Practical Scaling Laws: Converting Compute into Performance in a Data-Constrained World](daily/2026-05-19-practical-scaling-laws-data-constrained.md)
 - 2026-05-18 — [ToolMol: Evolutionary Agentic Framework for Multi-objective Drug Discovery](daily/2026-05-18-toolmol-evolutionary-drug-discovery.md)
