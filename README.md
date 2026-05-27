@@ -4,6 +4,8 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-27 — [Lying Is Just a Phase: The Hidden Alignment Transition in Language Model Scaling](daily/2026-05-27-lying-is-just-a-phase-alignment-transition.md)
+- 2026-05-26 — [HRM-Text: Efficient Pretraining Beyond Scaling](daily/2026-05-26-hrm-text-efficient-pretraining.md)
 - 2026-05-25 — [VeriCache: Turning Lossy KV Cache into Lossless LLM Inference](daily/2026-05-25-vericache-lossless-kv-cache.md)
 - 2026-05-24 — [Real-time Multi-instrument Autonomous Discovery of Novel Phase-change Memory Materials](daily/2026-05-24-mad-autonomous-materials-discovery.md)
 - 2026-05-23 — [Remarks on the disproof of the unit distance conjecture](daily/2026-05-23-openai-erdos-unit-distance-disproof.md)
