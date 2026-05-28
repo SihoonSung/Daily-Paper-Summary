@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-28 — [Atomically precise mechanosynthesis of carbon structures on hydrogenated Si(100) by inverted-mode STM](daily/2026-05-28-atomically-precise-mechanosynthesis-stm.md)
 - 2026-05-27 — [Lying Is Just a Phase: The Hidden Alignment Transition in Language Model Scaling](daily/2026-05-27-lying-is-just-a-phase-alignment-transition.md)
 - 2026-05-26 — [HRM-Text: Efficient Pretraining Beyond Scaling](daily/2026-05-26-hrm-text-efficient-pretraining.md)
 - 2026-05-25 — [VeriCache: Turning Lossy KV Cache into Lossless LLM Inference](daily/2026-05-25-vericache-lossless-kv-cache.md)
