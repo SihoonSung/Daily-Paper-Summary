@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-05-31 — [Earth System Foundation Model (ESFM): A unified framework for heterogeneous data integration and forecasting](daily/2026-05-31-esfm-earth-system-foundation-model.md)
 - 2026-05-30 — [Strongly Nonlinear Nanocavity Exciton Polaritons in Gate-Tunable Monolayer Semiconductors](daily/2026-05-30-polariton-optical-switching.md)
 - 2026-05-28 — [Atomically precise mechanosynthesis of carbon structures on hydrogenated Si(100) by inverted-mode STM](daily/2026-05-28-atomically-precise-mechanosynthesis-stm.md)
 - 2026-05-27 — [Lying Is Just a Phase: The Hidden Alignment Transition in Language Model Scaling](daily/2026-05-27-lying-is-just-a-phase-alignment-transition.md)
