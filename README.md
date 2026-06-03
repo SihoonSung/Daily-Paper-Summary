@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-06-03 — [Sandboxed Coding Agents are Competitive Omni-modal Task Solvers](daily/2026-06-03-sandboxed-coding-agents-omni-modal.md)
 - 2026-06-01 — [SkillOpt: Executive Strategy for Self-Evolving Agent Skills](daily/2026-06-01-skillopt-agent-skill-optimizer.md)
 - 2026-05-31 — [Earth System Foundation Model (ESFM): A unified framework for heterogeneous data integration and forecasting](daily/2026-05-31-esfm-earth-system-foundation-model.md)
 - 2026-05-30 — [Strongly Nonlinear Nanocavity Exciton Polaritons in Gate-Tunable Monolayer Semiconductors](daily/2026-05-30-polariton-optical-switching.md)
