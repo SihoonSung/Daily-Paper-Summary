@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-06-06 — [DASH: Fast Differentiable Architecture Search for Hybrid Attention in Minutes on a Single GPU](daily/2026-06-06-dash-hybrid-attention-search.md)
 - 2026-06-05 — [A collaborative constrained graph diffusion model for the generation of realistic synthetic molecules](daily/2026-06-05-cocograph-constrained-molecule-generation.md)
 - 2026-06-04 — [Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models](daily/2026-06-04-yolo26-unified-realtime-vision.md)
 - 2026-06-03 — [Sandboxed Coding Agents are Competitive Omni-modal Task Solvers](daily/2026-06-03-sandboxed-coding-agents-omni-modal.md)
