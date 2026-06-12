@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-06-12 — [m6A-FORM: A Foundation Model for Decoding N6-methyladenosine Biology](daily/2026-06-12-m6a-form-rna-methylation-foundation-model.md)
 - 2026-06-11 — [Quantum Error Correction with the Toric Code](daily/2026-06-11-toric-code-neutral-atom-error-correction.md)
 - 2026-06-10 — [GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors](daily/2026-06-10-grail-humanoid-locomanipulation-data.md)
 - 2026-06-09 — [Monolithic three-dimensional integration of silicon transistors](daily/2026-06-09-monolithic-3d-silicon-chips.md)
