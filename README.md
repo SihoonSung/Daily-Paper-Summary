@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-06-15 — [Autonomous Incident Resolution at Hyperscale: An Agentic AI Architecture for Network Operations](daily/2026-06-15-autonomous-incident-resolution-hyperscale.md)
 - 2026-06-14 — [Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite](daily/2026-06-14-on-device-rag-mobile-npu.md)
 - 2026-06-13 — [AgentJet: A Flexible Swarm Training Framework for Agentic Reinforcement Learning](daily/2026-06-13-agentjet-swarm-agentic-rl-framework.md)
 - 2026-06-12 — [m6A-FORM: A Foundation Model for Decoding N6-methyladenosine Biology](daily/2026-06-12-m6a-form-rna-methylation-foundation-model.md)
