@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-06-17 — [MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling](daily/2026-06-17-maxproof-competition-math-proof.md)
 - 2026-06-16 — [MiniMax Sparse Attention](daily/2026-06-16-minimax-sparse-attention-long-context.md)
 - 2026-06-15 — [Autonomous Incident Resolution at Hyperscale: An Agentic AI Architecture for Network Operations](daily/2026-06-15-autonomous-incident-resolution-hyperscale.md)
 - 2026-06-14 — [Energy-Efficient On-Device RAG on a Mobile NPU: System Design and Benchmark on Snapdragon X Elite](daily/2026-06-14-on-device-rag-mobile-npu.md)
