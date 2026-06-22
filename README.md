@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-06-22 — [From AGI to ASI](daily/2026-06-22-from-agi-to-asi-deepmind.md)
 - 2026-06-21 — [AI systems out-persuade expert humans](daily/2026-06-21-ai-systems-out-persuade-expert-humans.md)
 - 2026-06-20 — [Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories](daily/2026-06-20-language-models-need-sleep-continual-learning.md)
 - 2026-06-19 — [Zero knowledge verification for frontier AI training is possible](daily/2026-06-19-zk-frontier-ai-training-verification.md)
