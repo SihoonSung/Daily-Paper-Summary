@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-06-24 — [Harnessing the Collective Intelligence of AI Agents in the Wild for New Discoveries](daily/2026-06-24-einsteinarena-collective-ai-discovery.md)
 - 2026-06-23 — [ENPIRE: Agentic Robot Policy Self-Improvement in the Real World](daily/2026-06-23-enpire-agentic-robot-self-improvement.md)
 - 2026-06-22 — [From AGI to ASI](daily/2026-06-22-from-agi-to-asi-deepmind.md)
 - 2026-06-21 — [AI systems out-persuade expert humans](daily/2026-06-21-ai-systems-out-persuade-expert-humans.md)
