@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-06-27 — [OpenAI and Broadcom Unveil Jalapeño: A Custom LLM-Optimized Intelligence Processor](daily/2026-06-27-openai-jalapeno-llm-inference-chip.md)
 - 2026-06-26 — [NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?](daily/2026-06-26-naturebench-coding-agents-science-sota.md)
 - 2026-06-25 — [Breaking Bottlenecks in Solid Electrolyte Discovery with Large Artificial Intelligence Models](daily/2026-06-25-solid-electrolyte-ai-discovery.md)
 - 2026-06-24 — [Harnessing the Collective Intelligence of AI Agents in the Wild for New Discoveries](daily/2026-06-24-einsteinarena-collective-ai-discovery.md)
