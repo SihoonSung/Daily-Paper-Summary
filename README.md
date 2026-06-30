@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-06-30 — [Manufacturing-aware generative models enable petascale synthesis of designed DNA](daily/2026-06-30-variational-synthesis-petascale-dna.md)
 - 2026-06-29 — [Quantum computer architecture with ions in tweezer arrays](daily/2026-06-29-ion-tweezer-quantum-architecture.md)
 - 2026-06-28 — [IBM NanoStack: World's First Sub-1 Nanometer Chip Technology](daily/2026-06-28-ibm-nanostack-sub1nm-chip.md)
 - 2026-06-27 — [OpenAI and Broadcom Unveil Jalapeño: A Custom LLM-Optimized Intelligence Processor](daily/2026-06-27-openai-jalapeno-llm-inference-chip.md)
