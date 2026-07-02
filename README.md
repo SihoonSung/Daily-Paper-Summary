@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-02 — [AutoTrainess: Teaching Language Models to Improve Language Models Autonomously](daily/2026-07-02-autotrainess-autonomous-llm-posttraining.md)
 - 2026-07-01 — [Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent](daily/2026-07-01-agents-a1-moe-agent-scaling.md)
 - 2026-06-30 — [Manufacturing-aware generative models enable petascale synthesis of designed DNA](daily/2026-06-30-variational-synthesis-petascale-dna.md)
 - 2026-06-29 — [Quantum computer architecture with ions in tweezer arrays](daily/2026-06-29-ion-tweezer-quantum-architecture.md)
