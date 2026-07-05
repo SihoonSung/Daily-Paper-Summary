@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-05 — [One Demonstration Is Enough for Real-World Robotic Reinforcement Learning](daily/2026-07-05-autoserl-one-demo-robot-rl.md)
 - 2026-07-04 — [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](daily/2026-07-04-one-layer-rl-training.md)
 - 2026-07-03 — [Rosetta: Composable Native Multimodal Pretraining](daily/2026-07-03-rosetta-composable-multimodal-pretraining.md)
 - 2026-07-02 — [AutoTrainess: Teaching Language Models to Improve Language Models Autonomously](daily/2026-07-02-autotrainess-autonomous-llm-posttraining.md)
