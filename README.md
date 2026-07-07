@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-07 — [A Chemically Defined Synthetic Cell Capable of Growth and Replication](daily/2026-07-07-spudcell-synthetic-cell-life-cycle.md)
 - 2026-07-06 — [Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings](daily/2026-07-06-brain2qwerty-v2-non-invasive-bci.md)
 - 2026-07-05 — [One Demonstration Is Enough for Real-World Robotic Reinforcement Learning](daily/2026-07-05-autoserl-one-demo-robot-rl.md)
 - 2026-07-04 — [Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training](daily/2026-07-04-one-layer-rl-training.md)
