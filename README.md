@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-08 — [Reconfigurable Giant Nonreciprocity at Near-Normal Incidence via Phase-Change Magneto-Optical Metagratings](daily/2026-07-08-reconfigurable-thermal-radiation-metagrating.md)
 - 2026-07-07 — [A Chemically Defined Synthetic Cell Capable of Growth and Replication](daily/2026-07-07-spudcell-synthetic-cell-life-cycle.md)
 - 2026-07-06 — [Accurate Decoding of Natural Sentences from Non-Invasive Brain Recordings](daily/2026-07-06-brain2qwerty-v2-non-invasive-bci.md)
 - 2026-07-05 — [One Demonstration Is Enough for Real-World Robotic Reinforcement Learning](daily/2026-07-05-autoserl-one-demo-robot-rl.md)
