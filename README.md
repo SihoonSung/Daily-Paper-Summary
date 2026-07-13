@@ -4,6 +4,8 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-13 — [IonStack Part II: GhostLock — A Stack Use-After-Free That Has Existed in All Linux Distributions for 15 Years](daily/2026-07-13-ghostlock-linux-kernel-uaf.md)
+- 2026-07-12 — [Reconfigurable Giant Nonreciprocity at Near-Normal Incidence via Phase-Change Magneto-Optical Metagratings](daily/2026-07-12-programmable-nonreciprocal-thermal-radiation.md)
 - 2026-07-11 — [A Bit-Parallel Molybdenum Disulfide Computer Built Through Multi-Level Co-Optimization](daily/2026-07-11-mos2-bit-parallel-computer.md)
 - 2026-07-10 — [Chemical Maximum-Power-Point Tracking System for Stabilized Liquid Solar-Fuel Production](daily/2026-07-10-battery-free-solar-fuel-mppt.md)
 - 2026-07-09 — [Numerical Simulation of Light-Element Geochemistry of the Lunar Surface Using a Compact and Lightweight XRF Imaging Spectrometer](daily/2026-07-09-compact-xray-lunar-mapping.md)
