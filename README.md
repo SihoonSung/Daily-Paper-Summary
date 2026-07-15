@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-15 — [In Vivo Feasibility Study of Humanoid Robots in Surgery](daily/2026-07-15-humanoid-robot-surgery-feasibility.md)
 - 2026-07-14 — [Engineered ADARs Enable Precision A-to-G Base Editing of DNA](daily/2026-07-14-snuabe-precision-dna-editing.md)
 - 2026-07-13 — [IonStack Part II: GhostLock — A Stack Use-After-Free That Has Existed in All Linux Distributions for 15 Years](daily/2026-07-13-ghostlock-linux-kernel-uaf.md)
 - 2026-07-12 — [Reconfigurable Giant Nonreciprocity at Near-Normal Incidence via Phase-Change Magneto-Optical Metagratings](daily/2026-07-12-programmable-nonreciprocal-thermal-radiation.md)
