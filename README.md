@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-19 — [Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting](daily/2026-07-19-hallusquatting-agentic-botnets.md)
 - 2026-07-18 — [Parallel Enzymatic DNA Synthesis Using a Semiconductor Chip](daily/2026-07-18-semiconductor-chip-dna-synthesis.md)
 - 2026-07-17 — [Terahertz Generation and Detection through Gain-Enhanced Interband Photomixing in Quantum Well Structures](daily/2026-07-17-terahertz-chip-quantum-well-photomixing.md)
 - 2026-07-16 — [Performance Characterization of Electrospray Thrusters with Energetic Ionic Liquid Monopropellant](daily/2026-07-16-dual-mode-cubesat-propulsion.md)
