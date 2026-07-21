@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-21 — [Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](daily/2026-07-21-tactile-pretraining-dexterous-manipulation.md)
 - 2026-07-20 — [Mitigation of Hydrogen Crossover in Liquid Alkaline Water Electrolysers Using Gas Recombination Catalysts](daily/2026-07-20-hydrogen-crossover-electrolyzer-catalyst.md)
 - 2026-07-19 — [Beware of Agentic Botnets: Scalable Untargeted Promptware Attacks via Universal and Transferable Adversarial HalluSquatting](daily/2026-07-19-hallusquatting-agentic-botnets.md)
 - 2026-07-18 — [Parallel Enzymatic DNA Synthesis Using a Semiconductor Chip](daily/2026-07-18-semiconductor-chip-dna-synthesis.md)
