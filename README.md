@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-23 — [Mechanically Driven Li Dendrite Penetration in Garnet Solid Electrolyte](daily/2026-07-23-lithium-dendrite-garnet-fracture.md)
 - 2026-07-22 — [Nanoscale Imaging of Charge Transport across the Semimetal-Semiconductor Interface in Monolithic Platinum Diselenide](daily/2026-07-22-ptse2-semimetal-semiconductor-junction.md)
 - 2026-07-21 — [Human-Centric Transferable Tactile Pre-Training for Dexterous Robotic Manipulation](daily/2026-07-21-tactile-pretraining-dexterous-manipulation.md)
 - 2026-07-20 — [Mitigation of Hydrogen Crossover in Liquid Alkaline Water Electrolysers Using Gas Recombination Catalysts](daily/2026-07-20-hydrogen-crossover-electrolyzer-catalyst.md)
