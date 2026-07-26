@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-26 — [Observation of Floquet rotational super-radiance](daily/2026-07-26-floquet-rotational-superradiance.md)
 - 2026-07-25 — [Experimental Demonstration of a Decentralized Electromagnetic Formation Flying Control Using Alternating Magnetic Field Forces](daily/2026-07-25-electromagnetic-formation-flying.md)
 - 2026-07-24 — [Universal gates from braiding and fusing anyons on quantum hardware](daily/2026-07-24-topological-anyon-universal-gates.md)
 - 2026-07-23 — [Mechanically Driven Li Dendrite Penetration in Garnet Solid Electrolyte](daily/2026-07-23-lithium-dendrite-garnet-fracture.md)
