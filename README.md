@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-28 — [Electrocapillary Modulated Interfacial Tension Amplifies Liquid Metal Transduction](daily/2026-07-28-liquid-metal-electrocapillary-pump.md)
 - 2026-07-27 — [A Streptomyces megacluster encodes synergistic biotin-targeting antibiotics](daily/2026-07-27-streptomyces-biotin-antibiotic-megacluster.md)
 - 2026-07-26 — [Observation of Floquet rotational super-radiance](daily/2026-07-26-floquet-rotational-superradiance.md)
 - 2026-07-25 — [Experimental Demonstration of a Decentralized Electromagnetic Formation Flying Control Using Alternating Magnetic Field Forces](daily/2026-07-25-electromagnetic-formation-flying.md)
