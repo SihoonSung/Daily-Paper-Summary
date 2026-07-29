@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-07-29 — [Flowing zinc slurry for long-duration energy storage](daily/2026-07-29-zinc-slurry-flow-battery.md)
 - 2026-07-28 — [Electrocapillary Modulated Interfacial Tension Amplifies Liquid Metal Transduction](daily/2026-07-28-liquid-metal-electrocapillary-pump.md)
 - 2026-07-27 — [A Streptomyces megacluster encodes synergistic biotin-targeting antibiotics](daily/2026-07-27-streptomyces-biotin-antibiotic-megacluster.md)
 - 2026-07-26 — [Observation of Floquet rotational super-radiance](daily/2026-07-26-floquet-rotational-superradiance.md)
