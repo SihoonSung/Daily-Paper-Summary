@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-01 — [The Cost and Network Limits of Space-Based AI Compute](daily/2026-08-01-space-based-ai-compute-limits.md)
 - 2026-07-31 — [Air-permeable hydrogels through viscoelastic phase separation of aerogels](daily/2026-07-31-breathable-hydrogel-wearable-sensors.md)
 - 2026-07-30 — [Unlocking Wafer-Scale 3D Photonic Systems With Ion-Beam-Induced Origami](daily/2026-07-30-ion-beam-origami-3d-chips.md)
 - 2026-07-29 — [Flowing zinc slurry for long-duration energy storage](daily/2026-07-29-zinc-slurry-flow-battery.md)
