@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-05 — [Agile perceptive multi-skill locomotion for quadrupedal robots in the wild](daily/2026-08-05-agile-quadruped-multiskill-locomotion.md)
 - 2026-08-04 — [Plasticity in Brittle Intermetallics Enabled by Framework of Amorphous Interfaces and Preexisting Dislocations](daily/2026-08-04-coal-intermetallic-strength-plasticity.md)
 - 2026-08-03 — [Plasmonic metamaterial time crystal](daily/2026-08-03-photonic-time-crystal-terahertz.md)
 - 2026-08-02 — [Understanding Implicit Trust Errors in Core Carrier Networks through Multi-Agent Flaw Discovery and Analysis](daily/2026-08-02-ifinder-5g-core-network-flaws.md)
