@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-08 — [A versatile sustainable biosubstrate stabilizing metal conductors for soft sensors](daily/2026-08-08-recyclable-biosubstrate-soft-sensors.md)
 - 2026-08-07 — [Xkernel: Principled Performance Tunability of Operating System Kernels](daily/2026-08-07-xkernel-os-perf-tunability.md)
 - 2026-08-06 — [A digitally controlled silicon quantum processing unit](daily/2026-08-06-silicon-quantum-processor-cryo-cmos.md)
 - 2026-08-05 — [Agile perceptive multi-skill locomotion for quadrupedal robots in the wild](daily/2026-08-05-agile-quadruped-multiskill-locomotion.md)
