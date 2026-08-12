@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-12 — [Thermodynamic Human-Computer Interaction](daily/2026-08-12-thermodynamic-hci-target-prediction.md)
 - 2026-08-11 — [High-transconductance molybdenum disulfide top-gate transistors using epitaxial interface engineering](daily/2026-08-11-mos2-transistor-epitaxial-interface.md)
 - 2026-08-10 — [Towards shared embodied intelligence in humanoid robots through optimization, development and testing of the human-aware ergoCub robot](daily/2026-08-10-ergocub-human-aware-robot-codesign.md)
 - 2026-08-09 — [UK flagship fusion machine's next phase of cutting-edge research](daily/2026-08-09-mast-upgrade-fusion-plasma-record.md)
