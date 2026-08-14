@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-14 — [Radial nanochannel-array carbon enables high-performance intermetallic fuel cell catalysts](daily/2026-08-14-nanochannel-carbon-fuel-cell-catalyst.md)
 - 2026-08-13 — [Hybrid bioprinting of hierarchical vascular networks at capillary-scale resolution](daily/2026-08-13-hybrid-bioprinting-capillary-vasculature.md)
 - 2026-08-12 — [Thermodynamic Human-Computer Interaction](daily/2026-08-12-thermodynamic-hci-target-prediction.md)
 - 2026-08-11 — [High-transconductance molybdenum disulfide top-gate transistors using epitaxial interface engineering](daily/2026-08-11-mos2-transistor-epitaxial-interface.md)
