@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-15 — [Phonon focusing at room temperature](daily/2026-08-15-phonon-focusing-room-temperature.md)
 - 2026-08-14 — [Radial nanochannel-array carbon enables high-performance intermetallic fuel cell catalysts](daily/2026-08-14-nanochannel-carbon-fuel-cell-catalyst.md)
 - 2026-08-13 — [Hybrid bioprinting of hierarchical vascular networks at capillary-scale resolution](daily/2026-08-13-hybrid-bioprinting-capillary-vasculature.md)
 - 2026-08-12 — [Thermodynamic Human-Computer Interaction](daily/2026-08-12-thermodynamic-hci-target-prediction.md)
