@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-19 — [Improving interface-mediated carrier transport for efficient perovskite/Cu(In,Ga)Se2 tandem solar cells](daily/2026-08-19-perovskite-cigs-tandem-solar-cell.md)
 - 2026-08-18 — [Domain Decoupling Attack: Exploiting the Validation Gap Between Protective DNS and Shared Edge Routing](daily/2026-08-18-domain-decoupling-dns-bypass.md)
 - 2026-08-16 — [Critical Sizes of Satellite Constellations](daily/2026-08-16-satellite-constellation-critical-size.md)
 - 2026-08-15 — [Phonon focusing at room temperature](daily/2026-08-15-phonon-focusing-room-temperature.md)
