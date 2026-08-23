@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-23 — [BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration](daily/2026-08-23-bbcube-chip-on-wafer-packaging.md)
 - 2026-08-22 — [An entangling gate for dual-rail erasure qubits](daily/2026-08-22-dual-rail-erasure-qubit-gate.md)
 - 2026-08-21 — [Massive-scale parallel gene synthesis with oligonucleotide hybridization](daily/2026-08-21-mosaic-hybridization-gene-synthesis.md)
 - 2026-08-20 — [Sub-nm Curvature Unlocks Quantum Flexoelectricity in Graphene](daily/2026-08-20-graphene-nanowrinkle-flexoelectricity.md)
