@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-24 — [Design and Flight of an Ion-propelled Micro Hovercraft Leveraging Ground Proximity Effects](daily/2026-08-24-ion-hovercraft-ground-effect.md)
 - 2026-08-23 — [BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration](daily/2026-08-23-bbcube-chip-on-wafer-packaging.md)
 - 2026-08-22 — [An entangling gate for dual-rail erasure qubits](daily/2026-08-22-dual-rail-erasure-qubit-gate.md)
 - 2026-08-21 — [Massive-scale parallel gene synthesis with oligonucleotide hybridization](daily/2026-08-21-mosaic-hybridization-gene-synthesis.md)
