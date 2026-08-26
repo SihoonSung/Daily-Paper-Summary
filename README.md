@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-26 — [Upcycling of polyvinyl chloride into polyalphaolefin lubricants](daily/2026-08-26-pvc-upcycling-polyalphaolefin-lubricants.md)
 - 2026-08-25 — [Tomography of thermospheric density from Starlink Ephemeris: initial report](daily/2026-08-25-starlink-thermosphere-tomography.md)
 - 2026-08-24 — [Design and Flight of an Ion-propelled Micro Hovercraft Leveraging Ground Proximity Effects](daily/2026-08-24-ion-hovercraft-ground-effect.md)
 - 2026-08-23 — [BBCube: A Novel Chip-on-Wafer Technology for Next-Generation AI Chip Integration](daily/2026-08-23-bbcube-chip-on-wafer-packaging.md)
