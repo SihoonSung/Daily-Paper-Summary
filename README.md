@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-08-28 — [Small congeneric solvents for practical sodium metal batteries](daily/2026-08-28-sodium-metal-battery-solvent.md)
 - 2026-08-27 — [Proteome-wide identification of the druggable CRBN interactome](daily/2026-08-27-crbn-molecular-glue-interactome.md)
 - 2026-08-26 — [Upcycling of polyvinyl chloride into polyalphaolefin lubricants](daily/2026-08-26-pvc-upcycling-polyalphaolefin-lubricants.md)
 - 2026-08-25 — [Tomography of thermospheric density from Starlink Ephemeris: initial report](daily/2026-08-25-starlink-thermosphere-tomography.md)
