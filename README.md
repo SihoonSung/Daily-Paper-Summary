@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-03 — [SkinSpline: A Body-Attached Skeleton-Supported Haptic Interface for Continuous Skin Deformation through Physical Interpolation](daily/2026-09-03-skinspline-haptic-skin-deformation.md)
 - 2026-09-02 — [Pentavalent and tetravalent uranium formation via glycerol-stimulated bacteria in mine water](daily/2026-09-02-bacteria-uranium-bioremediation.md)
 - 2026-09-01 — [eMicro: Real-Time Multi-Hop Access Control for Microservices with eBPF](daily/2026-09-01-emicro-ebpf-microservice-access-control.md)
 - 2026-08-31 — [Ammonia pressure controls colloidal metal nitride synthesis in molten salts](daily/2026-08-31-metal-nitride-nanocrystal-synthesis.md)
