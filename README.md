@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-05 — [Intrinsic polarization superjunctions in III-nitride heterostructures for efficient power electronics](daily/2026-09-05-gan-silicon-superjunction-transistor.md)
 - 2026-09-04 — [In-plane anomalous Hall effect in a low-dimensional system](daily/2026-09-04-in-plane-hall-effect-sensing.md)
 - 2026-09-03 — [SkinSpline: A Body-Attached Skeleton-Supported Haptic Interface for Continuous Skin Deformation through Physical Interpolation](daily/2026-09-03-skinspline-haptic-skin-deformation.md)
 - 2026-09-02 — [Pentavalent and tetravalent uranium formation via glycerol-stimulated bacteria in mine water](daily/2026-09-02-bacteria-uranium-bioremediation.md)
