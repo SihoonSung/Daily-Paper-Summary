@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-09 — [Towards fibre-like loss for photonic integration from violet to near-infrared](daily/2026-09-09-fiber-like-loss-photonic-chips.md)
 - 2026-09-08 — [Protein design to broadly reprogram engineered T cell function](daily/2026-09-08-outlast-car-t-protein-design.md)
 - 2026-09-07 — [Knitting Multistability](daily/2026-09-07-multistable-knitted-textile-switches.md)
 - 2026-09-06 — [Satellite Trajectory Optimization via Proximal Policy Optimization for Space Debris Avoidance](daily/2026-09-06-satellite-debris-avoidance-rl.md)
