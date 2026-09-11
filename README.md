@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-11 — [Enhanced nuclear fusion in the sub-keV energy regime](daily/2026-09-11-sub-kev-fusion-metal-foils.md)
 - 2026-09-10 — [Optimal Control Drives Ultrafast and Energy-Efficient Magnetization Switching in Van der Waals Magnets](daily/2026-09-10-optimal-control-mram-switching.md)
 - 2026-09-09 — [Towards fibre-like loss for photonic integration from violet to near-infrared](daily/2026-09-09-fiber-like-loss-photonic-chips.md)
 - 2026-09-08 — [Protein design to broadly reprogram engineered T cell function](daily/2026-09-08-outlast-car-t-protein-design.md)
