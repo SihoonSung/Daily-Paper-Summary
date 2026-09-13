@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-13 — [Single-Period Floquet Control of Bosonic Codes with Quantum Lattice Gates](daily/2026-09-13-quantum-lattice-gates-bosonic-codes.md)
 - 2026-09-12 — [The Piezochiral Effect](daily/2026-09-12-piezochiral-effect-strain-chirality.md)
 - 2026-09-11 — [Enhanced nuclear fusion in the sub-keV energy regime](daily/2026-09-11-sub-kev-fusion-metal-foils.md)
 - 2026-09-10 — [Optimal Control Drives Ultrafast and Energy-Efficient Magnetization Switching in Van der Waals Magnets](daily/2026-09-10-optimal-control-mram-switching.md)
