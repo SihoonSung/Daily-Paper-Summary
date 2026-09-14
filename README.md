@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-14 — [A miniature endovascular soft robot for active blood flow regulation in occluded vessels](daily/2026-09-14-endovascular-soft-robot-blood-flow.md)
 - 2026-09-13 — [Single-Period Floquet Control of Bosonic Codes with Quantum Lattice Gates](daily/2026-09-13-quantum-lattice-gates-bosonic-codes.md)
 - 2026-09-12 — [The Piezochiral Effect](daily/2026-09-12-piezochiral-effect-strain-chirality.md)
 - 2026-09-11 — [Enhanced nuclear fusion in the sub-keV energy regime](daily/2026-09-11-sub-kev-fusion-metal-foils.md)
