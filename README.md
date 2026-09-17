@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-17 — [Mobile Backscatter Communication for the Battery-less Internet of Things](daily/2026-09-17-mobile-backscatter-battery-less-iot.md)
 - 2026-09-16 — [Evaluating Practical Enumeration and Blocking Attacks on the Snowflake Circumvention System](daily/2026-09-16-snowflake-proxy-enumeration-blocking-attack.md)
 - 2026-09-15 — [Encoded and non-genetic protein variants expand human functional proteome](daily/2026-09-15-human-proteome-protein-variants.md)
 - 2026-09-14 — [A miniature endovascular soft robot for active blood flow regulation in occluded vessels](daily/2026-09-14-endovascular-soft-robot-blood-flow.md)
