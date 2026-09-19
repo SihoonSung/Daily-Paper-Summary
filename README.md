@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-19 — [Lithium–disulfur dichloride batteries](daily/2026-09-19-lithium-disulfur-dichloride-battery.md)
 - 2026-09-18 — [Foaming photopolymers as a high-resolution biomimetic printing platform](daily/2026-09-18-deep-foam-photolithography-pfas-free.md)
 - 2026-09-17 — [Mobile Backscatter Communication for the Battery-less Internet of Things](daily/2026-09-17-mobile-backscatter-battery-less-iot.md)
 - 2026-09-16 — [Evaluating Practical Enumeration and Blocking Attacks on the Snowflake Circumvention System](daily/2026-09-16-snowflake-proxy-enumeration-blocking-attack.md)
