@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-20 — [The Virtual Biotech: A multi-agent AI framework for therapeutic discovery and development](daily/2026-09-20-stanford-virtual-biotech-ai-agents.md)
 - 2026-09-19 — [Lithium–disulfur dichloride batteries](daily/2026-09-19-lithium-disulfur-dichloride-battery.md)
 - 2026-09-18 — [Foaming photopolymers as a high-resolution biomimetic printing platform](daily/2026-09-18-deep-foam-photolithography-pfas-free.md)
 - 2026-09-17 — [Mobile Backscatter Communication for the Battery-less Internet of Things](daily/2026-09-17-mobile-backscatter-battery-less-iot.md)
