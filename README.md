@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-24 — [Extremely Low Thermal Conductivity in Rigid Layered Hybrid Perovskites](daily/2026-09-24-layered-perovskite-thermal-insulator.md)
 - 2026-09-23 — [Quantum jumps of sound](daily/2026-09-23-quantum-jumps-of-sound.md)
 - 2026-09-22 — [AthenaZero: A Low-Inertia, Bimanual Robot for Dynamic Manipulation](daily/2026-09-22-athenazero-low-inertia-bimanual-robot.md)
 - 2026-09-21 — [Experimental Demonstration of a Decentralized Electromagnetic Formation Flying Control Using Alternating Magnetic Field Forces](daily/2026-09-21-electromagnetic-formation-flying-satellites.md)
