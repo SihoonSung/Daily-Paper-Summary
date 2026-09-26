@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-26 — [Anodic Pd membrane H2 extraction enhances thermochemical dehydrogenation](daily/2026-09-26-ammonia-hydrogen-membrane-extraction.md)
 - 2026-09-25 — [Ultrafast, reconfigurable all-optical beam steering and spatial light modulation](daily/2026-09-25-ultrafast-metasurface-beam-steering.md)
 - 2026-09-24 — [Extremely Low Thermal Conductivity in Rigid Layered Hybrid Perovskites](daily/2026-09-24-layered-perovskite-thermal-insulator.md)
 - 2026-09-23 — [Quantum jumps of sound](daily/2026-09-23-quantum-jumps-of-sound.md)
