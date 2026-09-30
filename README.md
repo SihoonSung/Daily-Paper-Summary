@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-09-30 — [Monolithic 3D Integration of Atomic-Layer-Deposited Oxide Semiconductors on 200-mm Silicon Wafers](daily/2026-09-30-monolithic-3d-oxide-semiconductor-integration.md)
 - 2026-09-29 — [RF Helicon Plasma Thruster for an Atmosphere-Breathing Electric Propulsion System (ABEP)](daily/2026-09-29-air-breathing-plasma-thruster.md)
 - 2026-09-28 — [Luminescent-reaction-enabled super-resolution imaging](daily/2026-09-28-laser-free-live-cell-imaging.md)
 - 2026-09-27 — [Viscoelastic nanomechanical devices for neuromorphic information processing](daily/2026-09-27-nanomechanical-polymer-neuromorphic-device.md)
