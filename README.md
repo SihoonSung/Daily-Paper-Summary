@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-02 — [Gravitational torque drives multidecadal variations in length of day](daily/2026-10-02-earth-core-mantle-day-length.md)
 - 2026-10-01 — [All-Polymer Transmission-Free Flying Robot Powered by an Electrostrictive Actuator](daily/2026-10-01-electrostrictive-polymer-flying-robot.md)
 - 2026-09-30 — [Monolithic 3D Integration of Atomic-Layer-Deposited Oxide Semiconductors on 200-mm Silicon Wafers](daily/2026-09-30-monolithic-3d-oxide-semiconductor-integration.md)
 - 2026-09-29 — [RF Helicon Plasma Thruster for an Atmosphere-Breathing Electric Propulsion System (ABEP)](daily/2026-09-29-air-breathing-plasma-thruster.md)
