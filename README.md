@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-04 — [PostGREShell: A 12-Year-Old PostgreSQL Logical-Decoding Flaw Enabling Replication-to-RCE Privilege Escalation](daily/2026-10-04-postgreshell-logical-decoding-rce.md)
 - 2026-10-03 — [Knitted 3-D, Porous Textile Cover to Enhance Strawberry Fruit Production and Prevent Insect Feeding](daily/2026-10-03-knitted-textile-strawberry-yield.md)
 - 2026-10-02 — [Gravitational torque drives multidecadal variations in length of day](daily/2026-10-02-earth-core-mantle-day-length.md)
 - 2026-10-01 — [All-Polymer Transmission-Free Flying Robot Powered by an Electrostrictive Actuator](daily/2026-10-01-electrostrictive-polymer-flying-robot.md)
