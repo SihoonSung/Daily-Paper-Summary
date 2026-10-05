@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-05 — [Intraligand Charge Transfer in Metal-Organic Frameworks Facilitates Radical Anion-Mediated Hydrogen Evolution](daily/2026-10-05-mof-photocatalyst-hydrogen-water.md)
 - 2026-10-04 — [PostGREShell: A 12-Year-Old PostgreSQL Logical-Decoding Flaw Enabling Replication-to-RCE Privilege Escalation (CVE-2026-6471)](daily/2026-10-04-postgreshell-logical-decoding-rce.md)
 - 2026-10-03 — [Knitted 3-D, Porous Textile Cover to Enhance Strawberry Fruit Production and Prevent Insect Feeding](daily/2026-10-03-knitted-textile-strawberry-yield.md)
 - 2026-10-02 — [Gravitational torque drives multidecadal variations in length of day](daily/2026-10-02-earth-core-mantle-day-length.md)
