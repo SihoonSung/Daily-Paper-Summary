@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-07 — [Low-Voltage and High-Output Dielectric Elastomer Actuators for Untethered Soft Machines Working at 200 Volts](daily/2026-10-07-low-voltage-elastomer-actuator.md)
 - 2026-10-06 — [Spacetime mitigation of logical errors](daily/2026-10-06-ibm-spacetime-pec-error-mitigation.md)
 - 2026-10-05 — [Intraligand Charge Transfer in Metal-Organic Frameworks Facilitates Radical Anion-Mediated Hydrogen Evolution](daily/2026-10-05-mof-photocatalyst-hydrogen-water.md)
 - 2026-10-04 — [PostGREShell: A 12-Year-Old PostgreSQL Logical-Decoding Flaw Enabling Replication-to-RCE Privilege Escalation (CVE-2026-6471)](daily/2026-10-04-postgreshell-logical-decoding-rce.md)
