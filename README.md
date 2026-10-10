@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-10 — [Reconfigurable mmWave microchips co-integrating hBN switches on GaN](daily/2026-10-10-hbn-memristor-gan-6g-microchip.md)
 - 2026-10-09 — [Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign](daily/2026-10-09-fengshui-chiplet-accelerator-codesign.md)
 - 2026-10-08 — [Highly multiplexed mammalian metabolic engineering with a shotgun approach](daily/2026-10-08-shotgun-mammalian-metabolic-engineering.md)
 - 2026-10-07 — [Low-Voltage and High-Output Dielectric Elastomer Actuators for Untethered Soft Machines Working at 200 Volts](daily/2026-10-07-low-voltage-elastomer-actuator.md)
