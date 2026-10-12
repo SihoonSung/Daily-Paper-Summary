@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-12 — [Non-invasive control of gene editing in vivo by photoswitchable Cas12f and focused ultrasound](daily/2026-10-12-ultrasound-gated-cas12f-gene-editing.md)
 - 2026-10-11 — [Physico-chemical performance of red mud/dredged-based LC3](daily/2026-10-11-red-mud-sediment-cement.md)
 - 2026-10-10 — [Reconfigurable mmWave microchips co-integrating hBN switches on GaN](daily/2026-10-10-hbn-memristor-gan-6g-microchip.md)
 - 2026-10-09 — [Fengshui: Demystifying Chiplet Ecosystem and Bespoke Neural Network Accelerator Codesign](daily/2026-10-09-fengshui-chiplet-accelerator-codesign.md)
