@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-15 — [BARE-AI: Bit-Flip Attack Resilience in AI Hardware through Built-in Performance Monitors](daily/2026-10-15-bare-ai-bit-flip-attack-resilience.md)
 - 2026-10-14 — [Quantifying and minimizing dissipation in a non-equilibrium phase transition](daily/2026-10-14-liquid-crystal-dissipation-minimization.md)
 - 2026-10-13 — [A quadrupedal robot designed to complete a marathon on a single battery charge](daily/2026-10-13-raibo2-marathon-quadruped-robot.md)
 - 2026-10-12 — [Non-invasive control of gene editing in vivo by photoswitchable Cas12f and focused ultrasound](daily/2026-10-12-ultrasound-gated-cas12f-gene-editing.md)
