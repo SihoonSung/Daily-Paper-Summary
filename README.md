@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-18 — [Integration of high-κ oxide on 2D semiconductors with carbon-dot monolayer assembly as van der Waals interfacial layer](daily/2026-10-18-carbon-dot-2d-semiconductor-dielectric.md)
 - 2026-10-17 — [Nonvolatile Switching of Magnetism via Gate-Induced Sliding in Tetralayer Graphene](daily/2026-10-17-tetralayer-graphene-magnetism-switch.md)
 - 2026-10-16 — [6G as It Is Actually Being Built: Insights from Early 3GPP Standardization](daily/2026-10-16-6g-3gpp-standardization-reality-check.md)
 - 2026-10-15 — [BARE-AI: Bit-Flip Attack Resilience in AI Hardware through Built-in Performance Monitors](daily/2026-10-15-bare-ai-bit-flip-attack-resilience.md)
