@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-23 — [Airflows Redefine the Cost of Aerial Transport in the Wild](daily/2026-10-23-airflow-cost-aerial-transport.md)
 - 2026-10-22 — [Simultaneous High-Fidelity Single-Qubit Gates in a Spin Qubit Array](daily/2026-10-22-silicon-spin-qubit-parallel-control.md)
 - 2026-10-21 — [HOMARD: Hammering Off-chip Memory via Aggregate power Rail Disclosure](daily/2026-10-21-homard-power-side-channel-dram.md)
 - 2026-10-20 — [SteadyTray: Learning Object Balancing Tasks in Humanoid Tray Transport via Residual Reinforcement Learning](daily/2026-10-20-steadytray-humanoid-tray-balancing.md)
