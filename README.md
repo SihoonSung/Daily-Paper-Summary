@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-26 — [The START mission: Probing the 2029 Apophis Flyby via a Low-Cost Geocentric SmallSat](daily/2026-10-26-start-apophis-flyby-smallsat.md)
 - 2026-10-25 — [Revealing New Leakage Paths in GAAFETs using Predictive First-Principles Simulations](daily/2026-10-25-gaafet-gate-drain-leakage-simulation.md)
 - 2026-10-24 — [Discovery and engineering of avian R2 retrotransposons for all-RNA-mediated targeted DNA integration in human cells](daily/2026-10-24-avian-r2-retrotransposon-rna-integration.md)
 - 2026-10-23 — [Airflows Redefine the Cost of Aerial Transport in the Wild](daily/2026-10-23-airflow-cost-aerial-transport.md)
