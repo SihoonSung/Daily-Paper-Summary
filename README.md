@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-28 — [ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs](daily/2026-10-28-fpga-power-side-channel-attack.md)
 - 2026-10-27 — [Bioresorbable batteries for transient ingestible bioelectronics](daily/2026-10-27-bioresorbable-ingestible-battery.md)
 - 2026-10-26 — [The START mission: Probing the 2029 Apophis Flyby via a Low-Cost Geocentric SmallSat](daily/2026-10-26-start-apophis-flyby-smallsat.md)
 - 2026-10-25 — [Revealing New Leakage Paths in GAAFETs using Predictive First-Principles Simulations](daily/2026-10-25-gaafet-gate-drain-leakage-simulation.md)
