@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-10-30 — [Recoding by N1-methylpseudouridine guides rational mRNA vaccine design](daily/2026-10-30-mrna-vaccine-frameshift-recoding.md)
 - 2026-10-29 — [Single-crystal rhombohedral boron nitride wafers for integrated sliding ferroelectric memory](daily/2026-10-29-wafer-scale-boron-nitride-memory.md)
 - 2026-10-28 — [ML-Assisted Power Side-Channel Attacks on ML Accelerators in Shared FPGAs](daily/2026-10-28-fpga-power-side-channel-attack.md)
 - 2026-10-27 — [Bioresorbable batteries for transient ingestible bioelectronics](daily/2026-10-27-bioresorbable-ingestible-battery.md)
