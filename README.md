@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-11-02 — [Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride](daily/2026-11-02-boron-carbon-nitride-transistor.md)
 - 2026-11-01 — [A Modular Soft Gripper with Enhanced In-Hand Manipulation Capabilities](daily/2026-11-01-modular-soft-gripper-in-hand-manipulation.md)
 - 2026-10-31 — [A thorium-229 optical nuclear clock with feedback loop](daily/2026-10-31-thorium-229-nuclear-clock.md)
 - 2026-10-30 — [Recoding by N1-methylpseudouridine guides rational mRNA vaccine design](daily/2026-10-30-mrna-vaccine-frameshift-recoding.md)
