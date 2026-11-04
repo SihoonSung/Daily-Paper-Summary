@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-11-04 — [Grid-Mode-Aware AI Data Center Power Smoothing via Bayesian-Optimized Hybrid Energy Storage System](daily/2026-11-04-ai-datacenter-grid-power-smoothing.md)
 - 2026-11-03 — [Calypso's Voyage: Charting Traceroute Paths Through Submarine Cables](daily/2026-11-03-submarine-cable-traceroute-mapping.md)
 - 2026-11-02 — [Wafer-scale epitaxy growth of high-mobility p-type boron carbon nitride](daily/2026-11-02-boron-carbon-nitride-transistor.md)
 - 2026-11-01 — [A Modular Soft Gripper with Enhanced In-Hand Manipulation Capabilities](daily/2026-11-01-modular-soft-gripper-in-hand-manipulation.md)
