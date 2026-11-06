@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-11-06 — [Fixed Detectors, Moving Code: How Well Do Static Security Analyzers Hold Up over a Decade of C/C++ Evolution?](daily/2026-11-06-static-analyzer-decade-evaluation.md)
 - 2026-11-05 — [Camera-Free Object Discovery and Interaction with GazeTags](daily/2026-11-05-gazetags-camera-free-interaction.md)
 - 2026-11-04 — [Grid-Mode-Aware AI Data Center Power Smoothing via Bayesian-Optimized Hybrid Energy Storage System](daily/2026-11-04-ai-datacenter-grid-power-smoothing.md)
 - 2026-11-03 — [Calypso's Voyage: Charting Traceroute Paths Through Submarine Cables](daily/2026-11-03-submarine-cable-traceroute-mapping.md)
