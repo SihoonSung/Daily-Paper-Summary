@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-11-09 — [Clearing Up a Robot's Fuzzy Memory](daily/2026-11-09-robot-spatial-memory-uncertainty.md)
 - 2026-11-08 — [Low Contrast Absorber Localization in Heat Pipe Microreactors Using Physics Informed Muon Tomography for Reactivity Monitoring](daily/2026-11-08-muon-tomography-microreactor-monitoring.md)
 - 2026-11-07 — [Ultrafast single-qubit gates through multi-photon transition removal](daily/2026-11-07-ultrafast-qubit-gate-leakage-suppression.md)
 - 2026-11-06 — [Fixed Detectors, Moving Code: How Well Do Static Security Analyzers Hold Up over a Decade of C/C++ Evolution?](daily/2026-11-06-static-analyzer-decade-evaluation.md)
