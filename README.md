@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-11-12 — [Heterogeneous van der Waals integration of single-crystalline photonic nanomembranes](daily/2026-11-12-van-der-waals-photonic-integration.md)
 - 2026-11-11 — [Engineering ordered two-dimensional defect phases to strengthen structural alloys](daily/2026-11-11-ordered-defect-phases-superalloys.md)
 - 2026-11-10 — [A liquid implant that grows into a stable scaffold in situ](daily/2026-11-10-liquid-metal-embolic-implant.md)
 - 2026-11-09 — [Clearing Up a Robot's Fuzzy Memory](daily/2026-11-09-robot-spatial-memory-uncertainty.md)
