@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-11-13 — [Resolving the Kay–Dunn limit and the speed–endurance dilemma in ferroelectric Hf0.5Zr0.5O2 for DRAM-class sub-volt capacitors](daily/2026-11-13-subvolt-ferroelectric-capacitor-memory.md)
 - 2026-11-12 — [Heterogeneous van der Waals integration of single-crystalline photonic nanomembranes](daily/2026-11-12-van-der-waals-photonic-integration.md)
 - 2026-11-11 — [Engineering ordered two-dimensional defect phases to strengthen structural alloys](daily/2026-11-11-ordered-defect-phases-superalloys.md)
 - 2026-11-10 — [A liquid implant that grows into a stable scaffold in situ](daily/2026-11-10-liquid-metal-embolic-implant.md)
