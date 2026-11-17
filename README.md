@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-11-17 — [My Pillow Knows My Sleep: Sleep Monitoring with Computational Fabrics in the Pillowcase](daily/2026-11-17-pillowsense-fabric-sleep-monitor.md)
 - 2026-11-14 — [Overcoming Fundamental Control Limitations in Powered Descent Flight through Robust Incremental Nonlinear Dynamic Inversion](daily/2026-11-14-powered-descent-indi-control.md)
 - 2026-11-13 — [Resolving the Kay–Dunn limit and the speed–endurance dilemma in ferroelectric Hf0.5Zr0.5O2 for DRAM-class sub-volt capacitors](daily/2026-11-13-subvolt-ferroelectric-capacitor-memory.md)
 - 2026-11-12 — [Heterogeneous van der Waals integration of single-crystalline photonic nanomembranes](daily/2026-11-12-van-der-waals-photonic-integration.md)
