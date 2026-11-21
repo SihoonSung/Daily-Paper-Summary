@@ -4,6 +4,7 @@ A daily archive of useful recent technology paper summaries, in Korean and Engli
 
 ## Papers
 
+- 2026-11-21 — [Learning Heterogeneous Tactile Representation for General Dexterous Manipulation](daily/2026-11-21-lingbot-touch-robot-tactile-sensing.md)
 - 2026-11-20 — [Intermittent gas–liquid rearrangement controls the mixing of gases in porous media](daily/2026-11-20-underground-hydrogen-storage-pore-mixing.md)
 - 2026-11-17 — [My Pillow Knows My Sleep: Sleep Monitoring with Computational Fabrics in the Pillowcase](daily/2026-11-17-pillowsense-fabric-sleep-monitor.md)
 - 2026-11-14 — [Overcoming Fundamental Control Limitations in Powered Descent Flight through Robust Incremental Nonlinear Dynamic Inversion](daily/2026-11-14-powered-descent-indi-control.md)
